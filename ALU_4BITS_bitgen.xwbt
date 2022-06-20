@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Adrian\Desktop\Nueva carpeta\EjercicioVideo\ALU_4BITS.ncd
+OUTFILE=C:\Users\Adrian\Desktop\Nueva carpeta\EjercicioVideo\ALU_4BITS.bit
+FAMILY=Spartan3
+PART=xc3s50-5pq208
+WORKINGDIR=C:\Users\Adrian\Desktop\Nueva carpeta\EjercicioVideo
+LICENSE=WebPack
+USER_INFO=212402259_0_0_078

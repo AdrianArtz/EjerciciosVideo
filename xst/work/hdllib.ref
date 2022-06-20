@@ -1,0 +1,8 @@
+AR alu_4bits behavioral "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_4BITS.vhd" sub00/vhpl03 1655682876
+EN memoriarom NULL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRom.vhd" sub00/vhpl04 1655682849
+AR memoriarom arq "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRom.vhd" sub00/vhpl05 1655682850
+EN alu_8bits NULL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_8BITS.vhd" sub00/vhpl00 1655684074
+AR alu_8bits rtl "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_8BITS.vhd" sub00/vhpl01 1655684075
+EN alu_4bits NULL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_4BITS.vhd" sub00/vhpl02 1655682875
+AR memoriaram arq "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRam.vhd" sub00/vhpl07 1655682857
+EN memoriaram NULL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRam.vhd" sub00/vhpl06 1655682856

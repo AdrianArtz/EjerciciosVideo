@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/xst"
+elaborate
+-ifn MemoriaROM.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/TB_MemoriaRom_isim_beh.exe" -prj "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/TB_MemoriaRom_beh.prj" "work.TB_MemoriaRom" 

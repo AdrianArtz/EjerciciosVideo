@@ -1,0 +1,29 @@
+V3 12
+FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_4BITS.vhd" 2022/06/19.18:53:49 P.20131013
+EN work/ALU_4BITS 1655682875 \
+      FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_4BITS.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU_4BITS/Behavioral 1655682876 \
+      FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_4BITS.vhd" \
+      EN work/ALU_4BITS 1655682875
+FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_8BITS.vhd" 2022/06/19.19:01:42 P.20131013
+EN work/ALU_8BITS 1655684074 \
+      FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_8BITS.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ALU_8BITS/RTL 1655684075 \
+      FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/ALU_8BITS.vhd" \
+      EN work/ALU_8BITS 1655684074
+FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRam.vhd" 2022/06/19.18:53:49 P.20131013
+EN work/MemoriaRam 1655682856 \
+      FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRam.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MemoriaRAM/arq 1655682857 \
+      FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRam.vhd" \
+      EN work/MemoriaRam 1655682856
+FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRom.vhd" 2022/06/19.18:53:49 P.20131013
+EN work/MemoriaROM 1655682849 \
+      FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRom.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MemoriaROM/arq 1655682850 \
+      FL "C:/Users/Adrian/Desktop/Nueva carpeta/EjercicioVideo/MemoriaRom.vhd" \
+      EN work/MemoriaROM 1655682849
